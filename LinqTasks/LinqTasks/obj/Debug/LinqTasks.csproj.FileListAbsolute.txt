@@ -1,0 +1,8 @@
+C:\Projetcs\LinqUnitTests\LinqTasks\LinqTasks\obj\Debug\LinqTasks.csproj.AssemblyReference.cache
+C:\Projetcs\LinqUnitTests\LinqTasks\LinqTasks\obj\Debug\LinqTasks.csproj.SuggestedBindingRedirects.cache
+C:\Projetcs\LinqUnitTests\LinqTasks\LinqTasks\obj\Debug\LinqTasks.csproj.CoreCompileInputs.cache
+C:\Projetcs\LinqUnitTests\LinqTasks\LinqTasks\bin\Debug\LinqTasks.exe.config
+C:\Projetcs\LinqUnitTests\LinqTasks\LinqTasks\bin\Debug\LinqTasks.exe
+C:\Projetcs\LinqUnitTests\LinqTasks\LinqTasks\bin\Debug\LinqTasks.pdb
+C:\Projetcs\LinqUnitTests\LinqTasks\LinqTasks\obj\Debug\LinqTasks.exe
+C:\Projetcs\LinqUnitTests\LinqTasks\LinqTasks\obj\Debug\LinqTasks.pdb
